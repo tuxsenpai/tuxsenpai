@@ -10,3 +10,7 @@ Currently learning, experimenting, and building my way forward.
 
 Languages: Go · Python · C · C++
 Interests: Linux · Open Source · System Development
+
+---
+
+🚧 Currently working on: My dotfiles - Took 1 week to complete, will upload on GitHub soon!
