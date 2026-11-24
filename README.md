@@ -13,4 +13,3 @@ Interests: Linux · Open Source · System Development
 
 ---
 
-🚧 Currently working on: My dotfiles - Took 1 week to complete, will upload on GitHub soon!
